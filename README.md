@@ -1,7 +1,8 @@
 # SPARTAN: Sparse Hierarchical Memory for Parameter-Efficient Transformers
 
-<!-- <img src="Resources/Spartan_BERT_Logo.png"/> -->
-<img src="Resources/Spartan_BERT_Logo.png" width="50" align="center"/>
+<p align="center">
+  <img width="80" src="Resources/Spartan_BERT_Logo.png">
+</p>
 
 Code for the paper titled: SPARTAN: Sparse Hierarchical Memory for Parameter-Efficient Transformers [[Paper]]()
 
