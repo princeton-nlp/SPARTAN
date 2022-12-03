@@ -35,5 +35,10 @@ pip install .
 Please use the following citation if you found the paper useful!
 
 ```
-Will be released soon!
+@article{deshpande2022spartan,
+  title={SPARTAN: Sparse Hierarchical Memory for Parameter-Efficient Transformers},
+  author={Deshpande, Ameet and Sultan, Md Arafat and Ferritto, Anthony and Kalyan, Ashwin and Narasimhan, Karthik and Sil, Avirup},
+  journal={arXiv preprint arXiv:2211.16634},
+  year={2022}
+}
 ```
